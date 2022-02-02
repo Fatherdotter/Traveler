@@ -10,6 +10,11 @@ Traveler is a general-purpose tool for moving your creeps around. Feel free to f
 * [Lots of options](https://github.com/bonzaiferroni/Traveler/wiki/Traveler-API)
 * [Visuals](https://github.com/bonzaiferroni/Traveler/wiki/Improving-Traveler:-Features#show-your-path)
 
+## Disclaimer
+This fork of Traveler is intended to solve and maintain some of the Typescript issues it has in currently available iterations.
+
+The Javascript version is provided as-is, and is not maintained by this fork.
+
 ## Installation
 
 1. Download [Traveler.ts](https://github.com/bonzaiferroni/Traveler/blob/master/Traveler.ts) or [Traveler.js](https://github.com/bonzaiferroni/Traveler/blob/master/Traveler.js) or just copy/paste the code in [Traveler.js](https://raw.githubusercontent.com/bonzaiferroni/Traveler/master/Traveler.js) into a new file using the screeps console.
